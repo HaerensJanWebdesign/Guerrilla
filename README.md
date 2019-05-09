@@ -1,7 +1,10 @@
 # Guerrilla
 
-As a junior webdeveloper I made a site for a fictional costumer. To do this i used a template.
-https://haerensjanwebdesign.github.io/Guerrilla/
+As a junior webdeveloper I upgraded a site for a fictional costumer. To do this i used a template.
+
+![Before](images/before.png)
+![After](images/After.png)
+
 
 
 ## Built With
