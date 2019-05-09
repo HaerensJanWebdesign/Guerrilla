@@ -2,7 +2,10 @@
 
 As a junior webdeveloper I upgraded a site for a fictional costumer. To do this i used a template.
 
+## before
 ![Before](images/before.png)
+
+## After
 ![After](images/After.png)
 
 
