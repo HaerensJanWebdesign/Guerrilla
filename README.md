@@ -1,6 +1,7 @@
 # Guerrilla
 
 As a junior webdeveloper I upgraded a site for a fictional costumer. To do this i used a template.
+https://haerensjanwebdesign.github.io/Guerrilla/
 
 ## before
 ![Before](images/before.png)
