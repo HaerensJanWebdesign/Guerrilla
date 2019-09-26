@@ -23,5 +23,4 @@ https://haerensjanwebdesign.github.io/Guerrilla/
 
 ## Acknowledgments
 
-* Thumbs up to the creator of the template
-* Thanks to my coaches from BeCode
+* Thumbs up to the creator of the template be sure to check it out
